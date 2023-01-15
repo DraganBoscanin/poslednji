@@ -1,0 +1,17 @@
+p{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    
+}
+body {
+    text-align: center;
+    position: relative;
+    top: 320px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: oblique;
+}
